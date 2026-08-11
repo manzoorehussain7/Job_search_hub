@@ -1,0 +1,6 @@
+{
+  "name": "Job Search Portal",
+  "description": "An online job search website updated in real-time with Google Sheets job listings, featuring smart search, category filters, remote tags, job detail viewer, bookmarking, and instant sheet refresh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
